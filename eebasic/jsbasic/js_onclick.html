@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>灯亮与灯碎</title>
+</head>
+<body>
+<img src="img/dengsui.jpg" id="dengsui">
+<script>
+    //获取元素对象
+    var dengsui = document.getElementById("dengsui");
+    //定义flag记录灯的状态
+    var falg = false;
+    //设置事件属性
+    dengsui.onclick = function (ev) {
+        //判断
+        if(falg){//如果是亮的则碎掉
+            dengsui.src = "img/dengsui.jpg";
+            falg = false;
+        }else{
+            dengsui.src = "img/dengliang.jpg";
+            falg =true;
+        }
+    }
+
+
+</script>
+</body>
+</html>

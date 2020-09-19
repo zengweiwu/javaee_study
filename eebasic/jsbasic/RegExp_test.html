@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>正则表达式</title>
+    <script>
+        //创建正则表达式对象
+        var reg1 = new RegExp("^\\w{6,12}$");//6到12个字母 以字母开头或者结尾
+        /*var reg2 = /^\w{6,12}$"/;第二种定义方式*/
+        //test方法测试
+        var username = "zhangshan";
+        var flag = reg1.test(username);
+        alert(flag);
+    </script>
+</head>
+<body>
+
+</body>
+</html>

@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script src="js/jquery-3.3.1.js"></script>
+    <script>
+        $(function () {
+            //定义json对象
+            var p = {"username":"张三","age":18,"adress":{"city":"长沙","country":"China"}};
+            //获取json对象中的值
+            alert(p.username);
+            alert(p["age"]);
+            alert(p.adress.city);
+            //遍历json对象
+            for (var key in p){
+                alert(p[key])
+            }
+        })
+    </script>
+</head>
+<body>
+
+</body>
+</html>

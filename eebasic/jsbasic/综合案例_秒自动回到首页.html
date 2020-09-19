@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>5秒回到首页</title>
+    <style>
+        p{
+             text-align: center;
+        }
+        span{
+            font: #76ff49;
+        }
+    </style>
+</head>
+<body>
+<p>
+    <span id="time">5</span>秒后回到百度
+</p>
+<script>
+    //设置初始值为5
+    var second = 5;
+    //获取span元素对象
+    var time = document.getElementById("time");
+    //定义改变time函数
+    function changeTime() {
+        //进入函数second减一
+        second--;
+        //时间如果小于0 则跳转
+        if (second <= 0){
+            location.href = "http://biadu.com";
+            number.clearInterval();//停止计时器
+        }
+        //设置<span>标签里面的内容
+        time.innerText = second + "";
+    }
+//设置定时器 调用函数
+    var number = setInterval(changeTime,1000);
+</script>
+</body>
+</html>

@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>jquery案例之抽奖</title>
+    <script type="text/javascript" src="./js/jquery-3.3.1.js"></script>
+    <script type="text/javascript" src="./js/jquery-migrate-1.0.0.js"></script>
+</head>
+<body>
+
+<!-- 小像框 -->
+<div style="border-style:dotted;width:160px;height:100px">
+    <img id="img1ID" src="./img/man00.jpg" style="width:160px;height:100px"/>
+</div>
+
+<!-- 大像框 -->
+<div
+        style="border-style:double;width:800px;height:500px;position:absolute;left:500px;top:10px">
+    <img id="img2ID" src="./img/man00.jpg" width="800px" height="500px"/>
+</div>
+
+<!-- 开始按钮 -->
+<input
+        id="startID"
+        type="button"
+        value="点击开始"
+        style="width:150px;height:150px;font-size:22px"
+        >
+
+<!-- 停止按钮 -->
+<input
+        id="stopID"
+        type="button"
+        value="点击停止"
+        style="width:150px;height:150px;font-size:22px"
+        >
+
+
+<script language='javascript' type='text/javascript'>
+    //准备一个一维数组，装用户的像片路径
+    var imgs = [
+        "./img/man00.jpg",
+        "./img/man01.jpg",
+        "./img/man02.jpg",
+        "./img/man03.jpg",
+        "./img/man04.jpg",
+        "./img/man05.jpg",
+        "./img/man06.jpg"
+    ];
+    var interval;
+    var index;
+    //入口函数
+    $(function () {
+        //设置按钮 开始按钮可用 停止按钮不可用
+        $("#startID").prop("disabled",false);
+        $("#stopID").prop("disabled",true);
+        //开始抽奖
+        //获取开始按钮绑定单击事件
+        $("#startID").click(function () {
+            $("#startID").prop("disabled",true);
+            $("#stopID").prop("disabled",false);
+            interval = setInterval(function () {
+                //生成随机索引
+                index = Math.random();
+                index = Math.floor(index * 7);
+                //获取图片对象 改变索引值
+                $("#img1ID").prop("src",imgs[index]);
+            },100)
+        });
+        //结束抽奖
+        $("#stopID").on("click",function () {
+            $("#startID").prop("disabled",false);
+            $("#stopID").prop("disabled",true);
+            //清除计时器
+            clearInterval(interval);
+            //改变大相框的src
+            $("#img2ID").prop("src",imgs[index])
+        });
+    });
+</script>
+</body>
+</html>

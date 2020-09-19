@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>注册页面</title>
+    <!--引入jQuery-->
+    <script src="js/jquery-3.3.1.js"></script>
+    <script>
+        $(function () {
+            //获取用户名输入框 绑定失去焦点事件
+            $("#username").blur(function () {
+                //获取内容
+                var username = $(this).val();
+                //将username存入json中 发送请求
+                $.get("registerServlet",{"username":username},function (data) {
+                    //显示返回的json usernameExist：true,msg:"用户名已被使用l"
+                    //或者 usernameExist：false,msg:"用户名没有被使用"
+                    $("#showmsg").css("color","yellow");
+                    $("#showmsg").html(data.msg);
+                },"json");
+            })
+        })
+    </script>
+</head>
+<body>
+    <input type="text" id="username" name="username" placeholder="请输入用户名"><span id="showmsg"></span><br>
+    <input type="text" id="password" name="password" placeholder="请输入密码">
+</body>
+</html>

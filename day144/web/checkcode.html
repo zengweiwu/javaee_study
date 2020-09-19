@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>验证码</title>
+    <script>
+        /*
+        * 点击图片一次换一个验证码
+        *   1获取img对象
+        *   2给img绑定单击事件
+        *   3重新设置img的src属性
+        * */
+        window.onload = function () {
+            var image = document.getElementById("checkcode");
+                image.onclick = function () {
+                //获取时间戳
+                var date = new Date().getTime();
+                image.src = "/day144/checkcodeServlet?"+date;
+            };
+            var link = document.getElementById("change");
+            link.onclick = function () {
+                //获取时间戳
+                var date = new Date().getTime();
+                image.src = "/day144/checkcodeServlet?"+date;
+            }
+        };
+
+
+    </script>
+</head>
+<body>
+<img id="checkcode" src="/day144/checkcodeServlet">
+<a id="change" href="#">看不清换一张</a>
+</body>
+</html>

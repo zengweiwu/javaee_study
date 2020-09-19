@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <!--引入jQuery-->
+    <script src="js/jquery-3.3.1.js"></script>
+    <script>
+        function fun() {
+        $.ajax({
+            url:"ajaxServlet",//请求路径
+            type:"post",//请求方式
+            data:{"username":"jack","age":30},//请求参数
+            success:function (data) {
+                alert(data)
+            },//请求成功执行的函数
+            erro:function () {
+                alert("出错了。。。")
+            }
+
+        })
+    }
+    </script>
+</head>
+<body>
+<input type="button" value="点我发送请求" onclick="fun()">
+<input type="text">
+</body>
+</html>

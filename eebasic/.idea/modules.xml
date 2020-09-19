@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/bootstrapbasic/bootstrapbasic.iml" filepath="$PROJECT_DIR$/bootstrapbasic/bootstrapbasic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eebasic.iml" filepath="$PROJECT_DIR$/eebasic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/html&amp;css/html&amp;css.iml" filepath="$PROJECT_DIR$/html&amp;css/html&amp;css.iml" />
+      <module fileurl="file://$PROJECT_DIR$/htmlbasic/htmlbasic.iml" filepath="$PROJECT_DIR$/htmlbasic/htmlbasic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/html&amp;css/javascriptbasic.iml" filepath="$PROJECT_DIR$/html&amp;css/javascriptbasic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jdbcbasic01/jdbcbasic.iml" filepath="$PROJECT_DIR$/jdbcbasic01/jdbcbasic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jdbcbasic01/jdbcbasic01.iml" filepath="$PROJECT_DIR$/jdbcbasic01/jdbcbasic01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jsbasic/jsbasic.iml" filepath="$PROJECT_DIR$/jsbasic/jsbasic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mysqlbasic02/mysqlbasic02.iml" filepath="$PROJECT_DIR$/mysqlbasic02/mysqlbasic02.iml" />
+    </modules>
+  </component>
+</project>

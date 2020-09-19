@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>window对象方法2</title>
+</head>
+<body>
+<input type="button" id="openbut" value="点我打开新窗口">
+<input type="button" id="closebut" value="点我关闭新窗口">
+<script>
+    var openbut = document.getElementById("openbut");
+    //open方法打开一个新窗口 返回新窗口对象
+    //定义在外面提升作用域
+    var newwindow;
+    openbut.onclick = function () {
+       newwindow = open("http://www.baidu.com");
+    };
+    var closebut = document.getElementById("closebut");
+    //close谁调用我就关闭哪个窗口
+    closebut.onclick = function () {
+        newwindow.close();
+    }
+</script>
+</body>
+</html>

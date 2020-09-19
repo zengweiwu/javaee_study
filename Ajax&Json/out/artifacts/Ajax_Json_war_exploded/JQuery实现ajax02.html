@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <!--引入jQuery-->
+    <script src="js/jquery-3.3.1.js"></script>
+    <script>
+        //发送请求函数
+        function fun() {
+            $.get("ajaxServlet",{"username":"张三"},function (data) {
+                alert(data)
+            })
+        }
+    </script>
+</head>
+<body>
+<input type="button" value="点我发送请求" onclick="fun()">
+<input type="text">
+</body>
+</html>

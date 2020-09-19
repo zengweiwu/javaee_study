@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<script src="js/jquery-3.3.1.js"></script>
+<script>
+    //定义一个数组装json对象
+    var ps = [{"username":"李四","age":19},
+        {"username":"王五","age":15},
+        {"username":"陆六","age":16},
+    ];
+    //遍历ps
+    for (var i = 0; i < ps.length; i++) {
+        var p = ps[i];
+        for (var key in p){
+            alert(p[key]);
+        }
+    }
+</script>
+<body>
+
+</body>
+</html>

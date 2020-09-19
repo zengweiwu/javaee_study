@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>样式控制</title>
+    <style>
+        .d2{
+            border: 1px solid red;
+            width: 400px;
+            height: 20px;
+        }
+    </style>
+</head>
+<body>
+<div id="div1" class="div1">
+    div1
+</div>
+<div id="div2">
+    div2
+</div>
+<script>
+   /*
+   //第一种方式 使用元素的style属性来设置
+   //获取div元素对象 绑定事件
+    var div1 = document.getElementById("div1");
+    div1.onclick = function (ev) {
+        //改变样式
+        div1.style.border = "1px solid red";
+        div1.style.width = "200px";
+        div1.style.height = "20";
+    }*/
+
+   //通过绑定类名
+   var div2 = document.getElementById("div2");
+    div2.onclick = function (ev) {
+      //设置div2的class属性为d2
+      div2.className = "d2";
+    }
+</script>
+</body>
+</html>

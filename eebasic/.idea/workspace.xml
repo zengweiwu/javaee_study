@@ -1,0 +1,1147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="60b12129-932b-409c-9813-342456091cb6" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="831524835">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="28" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.11" value="2" />
+          <entry key="project.open.time.12" value="5" />
+          <entry key="project.open.time.13" value="1" />
+          <entry key="project.open.time.14" value="2" />
+          <entry key="project.open.time.16" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.29" value="1" />
+          <entry key="project.open.time.32" value="4" />
+          <entry key="project.open.time.33" value="1" />
+          <entry key="project.open.time.34" value="1" />
+          <entry key="project.open.time.35" value="2" />
+          <entry key="project.open.time.36" value="3" />
+          <entry key="project.open.time.39" value="2" />
+          <entry key="project.open.time.40" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="31" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="3" />
+          <entry key="css" value="2" />
+          <entry key="dtd" value="2" />
+          <entry key="html" value="29" />
+          <entry key="java" value="32" />
+          <entry key="jpg" value="16" />
+          <entry key="js" value="1" />
+          <entry key="jsp" value="1" />
+          <entry key="png" value="4" />
+          <entry key="properties" value="2" />
+          <entry key="xml" value="1" />
+          <entry key="xsd" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="3" />
+          <entry key="CSS" value="2" />
+          <entry key="DTD" value="2" />
+          <entry key="HTML" value="29" />
+          <entry key="Image" value="20" />
+          <entry key="JAVA" value="32" />
+          <entry key="JSP" value="1" />
+          <entry key="JavaScript" value="1" />
+          <entry key="Properties" value="2" />
+          <entry key="XML" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="html" value="8325" />
+          <entry key="java" value="7046" />
+          <entry key="properties" value="87" />
+          <entry key="xml" value="26" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="HTML" value="8325" />
+          <entry key="JAVA" value="7046" />
+          <entry key="Properties" value="87" />
+          <entry key="XML" value="26" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bootstrapbasic/01_bootstrap_分页条.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="616">
+              <caret line="28" column="34" selection-start-line="28" selection-start-column="34" selection-end-line="28" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bootstrapbasic/04_bootstrap_表单.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="616">
+              <caret line="28" column="12" selection-start-line="28" selection-start-column="12" selection-end-line="28" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bootstrapbasic/05_bootstrap_旅游网首页.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="6094">
+              <caret line="277" column="32" selection-start-line="277" selection-start-column="32" selection-end-line="277" selection-end-column="32" />
+              <folding>
+                <element signature="n#style#0;n#span#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#div#0;n#div#0;n#div#2;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#div#0;n#div#0;n#div#3;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#1;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#1;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#div#0;n#div#0;n#div#2;n#div#1;n#div#1;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jdbcbasic01/src/com/hut/Utils/JDBCUtils.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/mysqlbasic02/src/com/hut/itcast/datasource/utils/JDBCUtils.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="218">
+              <caret line="41" column="64" selection-start-line="41" selection-start-column="45" selection-end-line="41" selection-end-column="64" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bootstrapbasic/03_bootstrap_轮播图.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1254">
+              <caret line="57" column="6" selection-start-line="18" selection-end-line="57" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>jiangxuan</find>
+      <find>&lt;input type=&quot;password&quot;</find>
+      <find>username</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>&lt;input type=&quot;text&quot;</replace>
+      <replace>password</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>C:\Users\Administrator\eebasic\xmlbasic</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/day01_jdbc/src/com/hut/domain/Emp.java" />
+        <option value="$PROJECT_DIR$/day01_jdbc/src/com/hut/jdbc/JdbcDemo7Dao.java" />
+        <option value="$PROJECT_DIR$/day01_jdbc/src/com/hut/jdbc/JdbcDemo6.java" />
+        <option value="$PROJECT_DIR$/day01_jdbc/src/com/hut/jdbc/JdbcDemo1.java" />
+        <option value="$PROJECT_DIR$/day01_jdbc/src/com/hut/jdbc/JdbcDemo8Dao.java" />
+        <option value="$PROJECT_DIR$/day01_jdbc/src/com/hut/Utils/JDBCUtils.java" />
+        <option value="$PROJECT_DIR$/day01_jdbc/src/com/hut/jdbc/JdbcDemo9Login.java" />
+        <option value="$PROJECT_DIR$/day01_jdbc/src/jdbc.properties" />
+        <option value="$PROJECT_DIR$/day01_jdbc/src/com/hut/jdbc/JdbcDemo10.java" />
+        <option value="$PROJECT_DIR$/mysqlbasic02/src/com/hut/datasource/c3p0/C3P0.java" />
+        <option value="$PROJECT_DIR$/mysqlbasic02/src/com/hut/datasource/c3p0/C3P0Demo1.java" />
+        <option value="$PROJECT_DIR$/mysqlbasic02/src/c3p0-config.xml" />
+        <option value="$PROJECT_DIR$/mysqlbasic02/src/com/hut/datasource/druid/DruidDemo1.java" />
+        <option value="$PROJECT_DIR$/mysqlbasic02/src/druid.properties" />
+        <option value="$PROJECT_DIR$/mysqlbasic02/src/com/hut/datasource/druid/DruidDemo2.java" />
+        <option value="$PROJECT_DIR$/mysqlbasic02/src/com/hut/datasource/utils/JDBCUtils.java" />
+        <option value="$PROJECT_DIR$/mysqlbasic02/src/com/hut/itcast/datasource/druid/DruidDemo2.java" />
+        <option value="$PROJECT_DIR$/mysqlbasic02/src/com/hut/itcast/datasource/domain/Emp.java" />
+        <option value="$PROJECT_DIR$/mysqlbasic02/src/com/hut/itcast/domain/Emp.java" />
+        <option value="$PROJECT_DIR$/mysqlbasic02/src/com/hut/itcast/jdbctemplate/JdbcTemplateDemo1.java" />
+        <option value="$PROJECT_DIR$/mysqlbasic02/src/com/hut/itcast/jdbctemplate/JdbcTempateDemo2.java" />
+        <option value="$PROJECT_DIR$/htmlbasic/1_example_公司简介.html" />
+        <option value="$PROJECT_DIR$/htmlbasic/2_exaple_链接标签.html" />
+        <option value="$PROJECT_DIR$/htmlbasic/3_example_表格.html" />
+        <option value="$PROJECT_DIR$/htmlbasic/4_example_综合案例.html" />
+        <option value="$PROJECT_DIR$/html&amp;css/1_html_注册页面.html" />
+        <option value="$PROJECT_DIR$/html&amp;css/2_css_综合案例_注册页面.html" />
+        <option value="$PROJECT_DIR$/jsbasic/js_打印99乘法表.html" />
+        <option value="$PROJECT_DIR$/jsbasic/RegExp_test.html" />
+        <option value="$PROJECT_DIR$/jsbasic/GlobalTest.html" />
+        <option value="$PROJECT_DIR$/jsbasic/DOM_Test.html" />
+        <option value="$PROJECT_DIR$/jsbasic/js_onclick.html" />
+        <option value="$PROJECT_DIR$/jsbasic/1_windon对象方法.html" />
+        <option value="$PROJECT_DIR$/jsbasic/1_window对象方法.html" />
+        <option value="$PROJECT_DIR$/jsbasic/2_window对象方法.html" />
+        <option value="$PROJECT_DIR$/jsbasic/3_window对象方法.html" />
+        <option value="$PROJECT_DIR$/jsbasic/4_window综合案例.html" />
+        <option value="$PROJECT_DIR$/jsbasic/综合案例_秒自动回到首页.html" />
+        <option value="$PROJECT_DIR$/day01_jdbc/src/Love.java" />
+        <option value="$PROJECT_DIR$/jsbasic/1_dom_Node对象.html" />
+        <option value="$PROJECT_DIR$/jsbasic/案例_动态表格.html" />
+        <option value="$PROJECT_DIR$/jsbasic/js_样式控制的两种方式.html" />
+        <option value="$PROJECT_DIR$/jsbasic/案例_表格全选.html" />
+        <option value="$PROJECT_DIR$/jsbasic/案例-表单验证.html" />
+        <option value="$PROJECT_DIR$/bootstrapbasic/02_bootstrap_导航条.html" />
+        <option value="$PROJECT_DIR$/bootstrapbasic/03_bootstrap_轮播图.html" />
+        <option value="$PROJECT_DIR$/bootstrapbasic/01_bootstrap_helloworld.html" />
+        <option value="$PROJECT_DIR$/bootstrapbasic/01_bootstrap_分页条.html" />
+        <option value="$PROJECT_DIR$/bootstrapbasic/04_bootstrap_表单.html" />
+        <option value="$PROJECT_DIR$/bootstrapbasic/05_bootstrap_旅游网首页.html" />
+        <option value="$PROJECT_DIR$/xmlbasic/src/cn/itcast/xml/jsoup/JsoupDemo6.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-10" />
+    <option name="y" value="-10" />
+    <option name="width" value="980" />
+    <option name="height" value="1050" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="eebasic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eebasic" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eebasic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eebasic" type="462c0819:PsiDirectoryNode" />
+              <item name="jdbcbasic01" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eebasic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eebasic" type="462c0819:PsiDirectoryNode" />
+              <item name="jdbcbasic01" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eebasic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eebasic" type="462c0819:PsiDirectoryNode" />
+              <item name="jdbcbasic01" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eebasic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eebasic" type="462c0819:PsiDirectoryNode" />
+              <item name="jdbcbasic01" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="hut" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eebasic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eebasic" type="462c0819:PsiDirectoryNode" />
+              <item name="jdbcbasic01" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="hut" type="462c0819:PsiDirectoryNode" />
+              <item name="Utils" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eebasic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eebasic" type="462c0819:PsiDirectoryNode" />
+              <item name="mysqlbasic02" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eebasic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eebasic" type="462c0819:PsiDirectoryNode" />
+              <item name="mysqlbasic02" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eebasic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eebasic" type="462c0819:PsiDirectoryNode" />
+              <item name="mysqlbasic02" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eebasic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eebasic" type="462c0819:PsiDirectoryNode" />
+              <item name="mysqlbasic02" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="hut" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eebasic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eebasic" type="462c0819:PsiDirectoryNode" />
+              <item name="mysqlbasic02" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="hut" type="462c0819:PsiDirectoryNode" />
+              <item name="itcast" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eebasic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eebasic" type="462c0819:PsiDirectoryNode" />
+              <item name="mysqlbasic02" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="hut" type="462c0819:PsiDirectoryNode" />
+              <item name="itcast" type="462c0819:PsiDirectoryNode" />
+              <item name="datasource" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eebasic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eebasic" type="462c0819:PsiDirectoryNode" />
+              <item name="mysqlbasic02" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="hut" type="462c0819:PsiDirectoryNode" />
+              <item name="itcast" type="462c0819:PsiDirectoryNode" />
+              <item name="datasource" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1594915108796" />
+    <property name="last_opened_file_path" value="$USER_HOME$/day17_case" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Language Defaults" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.hut.jdbc" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\eebasic\xmlbasic\src" />
+      <recent name="C:\Users\Administrator\eebasic\src\cn\itcast" />
+      <recent name="C:\Users\Administrator\eebasic\src" />
+      <recent name="C:\Users\Administrator\eebasic\xmlbasic\libs" />
+      <recent name="C:\Users\Administrator\eebasic\bootstrapbasic" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.Tomcat 9.0.27">
+    <configuration name="JsoupDemo1 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.itcast.xml.jsoup.JsoupDemo1" />
+      <module name="xmlbasic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.itcast.xml.jsoup.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JsoupDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.itcast.xml.jsoup.JsoupDemo1" />
+      <module name="eebasic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.itcast.xml.jsoup.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JsoupDemo5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.itcast.xml.jsoup.JsoupDemo5" />
+      <module name="xmlbasic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.itcast.xml.jsoup.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JsoupDemo6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.itcast.xml.jsoup.JsoupDemo6" />
+      <module name="xmlbasic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.itcast.xml.jsoup.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Love" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Love" />
+      <module name="jdbcbasic01" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat 9.0.27" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.27" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="tomcat:war exploded2">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="_eebasic" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="52102" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="tomcat:war exploded2" />
+        </option>
+      </method>
+    </configuration>
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.27" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment />
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="_eebasic" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="52102" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tomcat" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.27" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment />
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_eebasic_2" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="52102" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Tomcat Server.tomcat" />
+      <item itemvalue="Tomcat Server.Tomcat 9.0.27" />
+      <item itemvalue="Application.Love" />
+      <item itemvalue="Application.JsoupDemo1" />
+      <item itemvalue="Application.JsoupDemo1 (1)" />
+      <item itemvalue="Application.JsoupDemo5" />
+      <item itemvalue="Application.JsoupDemo6" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.JsoupDemo6" />
+        <item itemvalue="Application.JsoupDemo1 (1)" />
+        <item itemvalue="Application.JsoupDemo5" />
+        <item itemvalue="Application.JsoupDemo1" />
+        <item itemvalue="Application.Love" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="60b12129-932b-409c-9813-342456091cb6" name="Default Changelist" comment="" />
+      <created>1593067471536</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593067471536</updated>
+      <workItem from="1593067475957" duration="13118000" />
+      <workItem from="1593093424713" duration="6648000" />
+      <workItem from="1593138524421" duration="26189000" />
+      <workItem from="1593188142443" duration="1081000" />
+      <workItem from="1593190019300" duration="1013000" />
+      <workItem from="1593191069196" duration="1837000" />
+      <workItem from="1593192940975" duration="62000" />
+      <workItem from="1593193036471" duration="646000" />
+      <workItem from="1593193716646" duration="249000" />
+      <workItem from="1593194166735" duration="4175000" />
+      <workItem from="1593198381766" duration="148000" />
+      <workItem from="1593224461131" duration="1147000" />
+      <workItem from="1593225650700" duration="142000" />
+      <workItem from="1593225831465" duration="208000" />
+      <workItem from="1593226071599" duration="228000" />
+      <workItem from="1593226341699" duration="56000" />
+      <workItem from="1593226431474" duration="7197000" />
+      <workItem from="1593332401590" duration="7320000" />
+      <workItem from="1593402859176" duration="13029000" />
+      <workItem from="1593514337053" duration="9044000" />
+      <workItem from="1593607098476" duration="9350000" />
+      <workItem from="1593667771848" duration="12158000" />
+      <workItem from="1593779418163" duration="5552000" />
+      <workItem from="1593848507993" duration="5971000" />
+      <workItem from="1593910559912" duration="597000" />
+      <workItem from="1593999875701" duration="2422000" />
+      <workItem from="1594082485808" duration="13722000" />
+      <workItem from="1594223536779" duration="702000" />
+      <workItem from="1594258059470" duration="3076000" />
+      <workItem from="1594910446809" duration="2175000" />
+      <workItem from="1594945564800" duration="149000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="JdbcTempateDemo2_test4 - 2020.06.26 at 18h 28m 13s.xml">
+      <configuration name="JdbcTempateDemo2.test4" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JdbcTempateDemo2_test4 - 2020.06.26 at 22h 17m 28s.xml">
+      <configuration name="JdbcTempateDemo2.test4" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JdbcTempateDemo2_test5 - 2020.06.26 at 22h 22m 26s.xml">
+      <configuration name="JdbcTempateDemo2.test5" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JdbcTempateDemo2_test6 - 2020.06.26 at 22h 58m 16s.xml">
+      <configuration name="JdbcTempateDemo2.test6" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JdbcTempateDemo2_test6 - 2020.06.26 at 23h 01m 07s.xml">
+      <configuration name="JdbcTempateDemo2.test6" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JdbcTempateDemo2_test7 - 2020.06.26 at 23h 10m 26s.xml">
+      <configuration name="JdbcTempateDemo2.test7" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JdbcTempateDemo2_test7 - 2020.06.27 at 00h 21m 44s.xml">
+      <configuration name="JdbcTempateDemo2.test7" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JdbcTempateDemo2_test5 - 2020.06.27 at 01h 56m 55s.xml">
+      <configuration name="JdbcTempateDemo2.test5" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JdbcTempateDemo2_test6 - 2020.06.27 at 02h 21m 52s.xml">
+      <configuration name="JdbcTempateDemo2.test6" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JdbcTempateDemo2_test7 - 2020.06.27 at 14h 37m 31s.xml">
+      <configuration name="JdbcTempateDemo2.test7" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="149411000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17493297" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.19102749" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32561505" />
+      <window_info anchor="bottom" id="Spring" order="12" />
+      <window_info anchor="bottom" id="Application Servers" order="13" weight="0.3299566" />
+      <window_info anchor="bottom" id="Java Enterprise" order="14" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+      <window_info anchor="right" id="Word Book" order="9" side_tool="true" />
+      <window_info anchor="right" id="Translation Assistant" order="10" weight="0.3297587" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/html&amp;css/img/regbtn.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html&amp;css/1_html_注册页面.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="868">
+          <caret line="102" column="7" selection-start-line="8" selection-end-line="102" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html&amp;css/img/register_bg.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html&amp;css/img/verify_code.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html&amp;css/2_css_综合案例_注册页面.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1036">
+          <caret line="37" column="23" selection-start-line="37" selection-start-column="23" selection-end-line="37" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/htmlbasic/4_example_综合案例.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4620">
+          <caret line="225" column="58" selection-start-line="225" selection-start-column="58" selection-end-line="225" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jsbasic/js_打印99乘法表.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="7" column="29" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jsbasic/js_onclick.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="448">
+          <caret line="16" column="21" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jsbasic/1_window对象方法.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jsbasic/img/banner_3.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jsbasic/img/banner_2.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jsbasic/img/banner_1.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day01_jdbc/src/Love.java" />
+    <entry file="file://$PROJECT_DIR$/jsbasic/2_window对象方法.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="588">
+          <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jsbasic/3_window对象方法.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jsbasic/4_window综合案例.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="560">
+          <caret line="20" column="49" selection-start-line="20" selection-start-column="49" selection-end-line="20" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jsbasic/综合案例_秒自动回到首页.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="588">
+          <caret line="21" column="16" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jsbasic/1_dom_Node对象.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="11" column="26" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jsbasic/案例_动态表格.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3808">
+          <caret line="136" column="24" selection-start-line="136" selection-start-column="24" selection-end-line="136" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jsbasic/js_样式控制的两种方式.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="868">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jsbasic/案例_表格全选.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3136">
+          <caret line="112" column="39" selection-start-line="112" selection-start-column="39" selection-end-line="113" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jsbasic/案例-表单验证.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5068">
+          <caret line="181" column="6" selection-start-line="181" selection-start-column="6" selection-end-line="181" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bootstrapbasic/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bootstrapbasic/js/jquery-3.2.1.min.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jsbasic/RegExp_test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="8" column="42" selection-start-line="8" selection-start-column="42" selection-end-line="8" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jsbasic/GlobalTest.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="11" column="31" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jsbasic/DOM_Test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="12" column="34" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bootstrapbasic/img/banner_1.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bootstrapbasic/00_bootstrap_helloworld.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="14" column="60" selection-start-line="14" selection-start-column="60" selection-end-line="14" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bootstrapbasic/img/top_banner.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bootstrapbasic/img/hotel_tel.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bootstrapbasic/img/hot_tel.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bootstrapbasic/img/logo.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/a.css" />
+    <entry file="file://$PROJECT_DIR$/src/cn/itcast/xml/dtd/student.dtd" />
+    <entry file="file://$PROJECT_DIR$/src/cn/itcast/xml/jsoup/JsoupDemo1.java" />
+    <entry file="file://$PROJECT_DIR$/src/cn/itcast/xml/jsoup/JsoupDemo4.java" />
+    <entry file="file://$PROJECT_DIR$/bootstrapbasic/02_bootstrap_导航条.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1316">
+          <caret line="47" column="6" selection-start-line="16" selection-end-line="47" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xmlbasic/src/cn/itcast/xml/dtd/student.dtd" />
+    <entry file="file://$PROJECT_DIR$/xmlbasic/src/cn/itcast/xml/jsoup/JsoupDemo5.java" />
+    <entry file="file://$PROJECT_DIR$/xmlbasic/src/student.xsd" />
+    <entry file="file://$PROJECT_DIR$/xmlbasic/src/cn/itcast/xml/jsoup/JsoupDemo1.java" />
+    <entry file="file://$PROJECT_DIR$/xmlbasic/src/cn/itcast/xml/jsoup/JsoupDemo2.java" />
+    <entry file="file://$PROJECT_DIR$/xmlbasic/src/cn/itcast/xml/jsoup/JsoupDemo6.java" />
+    <entry file="file://$PROJECT_DIR$/tomcat/web/index.jsp" />
+    <entry file="file://$PROJECT_DIR$/bootstrapbasic/01_bootstrap_分页条.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="616">
+          <caret line="28" column="34" selection-start-line="28" selection-start-column="34" selection-end-line="28" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bootstrapbasic/04_bootstrap_表单.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="616">
+          <caret line="28" column="12" selection-start-line="28" selection-start-column="12" selection-end-line="28" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bootstrapbasic/05_bootstrap_旅游网首页.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6094">
+          <caret line="277" column="32" selection-start-line="277" selection-start-column="32" selection-end-line="277" selection-end-column="32" />
+          <folding>
+            <element signature="n#style#0;n#span#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#0;n#div#0;n#div#2;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#0;n#div#0;n#div#3;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#1;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#1;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#0;n#div#0;n#div#2;n#div#1;n#div#1;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jdbcbasic01/src/com/hut/Utils/JDBCUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bootstrapbasic/03_bootstrap_轮播图.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1254">
+          <caret line="57" column="6" selection-start-line="18" selection-end-line="57" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mysqlbasic02/src/com/hut/itcast/datasource/utils/JDBCUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="41" column="64" selection-start-line="41" selection-start-column="45" selection-end-line="41" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>tomcat:war exploded</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>mysqlbasic02</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>c3p0-0.9.5.2</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
